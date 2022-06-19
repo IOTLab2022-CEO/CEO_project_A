@@ -63,3 +63,10 @@ https://github.com/khoih-prog/ESP8266_ISR_Servo#example-esp8266_multiplerandomse
 https://user-images.githubusercontent.com/90883981/174482682-7b66854c-27f5-466c-bef9-ac5f24ce55fe.mp4
 
 
+* 테스트 영상 2
+
+
+https://user-images.githubusercontent.com/90883981/174482742-b26541e5-d418-43ab-bed7-3b8e9f585b3b.mp4
+
+
+
