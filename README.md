@@ -16,12 +16,13 @@ IoT 실습 - 매장 관리 시스템
 
    
 ---
-## Video
+## Result Video
    
-1. Test 01 - Servo Motor, OLED, Switch, Buzzer, UltraSonic   
 
-https://user-images.githubusercontent.com/96249554/174464353-f5914f4b-506c-4623-8761-098b238ba6e1.mp4
-   
+https://user-images.githubusercontent.com/74127841/174486560-43f47488-87a7-41a5-b098-2c50616a150e.mp4
+
+
+
    
    
 ---
@@ -73,5 +74,13 @@ https://user-images.githubusercontent.com/90883981/174482682-7b66854c-27f5-466c-
 
 https://user-images.githubusercontent.com/90883981/174482742-b26541e5-d418-43ab-bed7-3b8e9f585b3b.mp4
 
+
+* Edge 연결 성공
+
+* 테스트 영상 3
+
+
+
+Uploading KakaoTalk_20220619_233654668.mp4…
 
 
