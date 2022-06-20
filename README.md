@@ -81,6 +81,7 @@ https://user-images.githubusercontent.com/90883981/174482742-b26541e5-d418-43ab-
 
 
 
-Uploading KakaoTalk_20220619_233654668.mp4…
+
+https://user-images.githubusercontent.com/74127841/174486560-43f47488-87a7-41a5-b098-2c50616a150e.mp4
 
 
