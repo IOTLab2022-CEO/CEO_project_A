@@ -7,7 +7,7 @@ IoT 실습 - 매장 관리 시스템
 
 ## Result Architecture
 
-![image](https://user-images.githubusercontent.com/90883981/174763860-956217e5-4408-4d81-aef2-38f6c56c57fa.png)
+![image](https://user-images.githubusercontent.com/90883981/174765319-e845f3aa-db66-4a71-864c-80f27ecf5fb3.png)
 
 
 ---
